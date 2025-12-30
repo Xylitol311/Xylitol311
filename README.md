@@ -1,16 +1,153 @@
-## Hi there 👋
+<div class="header" align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=Hi,%20I'm%20Suhong&desc=Backend%20Developer%20💻&fontAlignY=40&descAlignY=75&reversal=false" />
+</div>
 
-<!--
-**Xylitol311/Xylitol311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+  <h3>🚀 Backend Developer | Java & Spring Boot Enthusiast</h3>
+  <p>안녕하세요, 차수홍입니다</p>
+</div>
+
+<div align="center">
+  
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
+
+</div>
+
+<br>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<div align="center">
+
+| 💻 Language & Framework | 📊 Most Used Languages |
+|:---|:---:|
+| <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <br><br> **💾 Database** <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <br><br> **🔧 Tools & Infrastructure** <br> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xylitol311&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27) |
+
+</div>
+
+<br>
+
+<div align="center">
+  
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
+
+</div>
+
+<br>
+
+<h3 align="center">🏆 Awards & Qualifications 🏆</h3>
+
+<div align="center">
+
+| 🏅 Awards | 📜 Qualifications |
+|:---|:---|
+| **🥇 소방안전 빅데이터 활용 및 아이디어 경진대회**<br>&nbsp;&nbsp;&nbsp;&nbsp;대상 (서비스개발 부문) _(2025.09)_ <br><br> **🥈 SSAFY 12기 공통 프로젝트**<br>&nbsp;&nbsp;&nbsp;&nbsp;우수상 (2등) _(2025.02)_ <br><br> **🥉 SSAFY 12기 관통 프로젝트**<br>&nbsp;&nbsp;&nbsp;&nbsp;우수상 (3등) _(2025.04)_ | **📜 정보처리기사**<br>&nbsp;&nbsp;&nbsp;&nbsp;한국산업인력공단 _(2025.06)_ <br><br> **📜 SQL 개발자 (SQLD)**<br>&nbsp;&nbsp;&nbsp;&nbsp;한국데이터산업진흥원 _(2024.06)_ |
+
+</div>
+
+<br>
+
+<div align="center">
+  
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
+
+</div>
+
+<br>
+
+<h3 align="center">💼 Career & Education 💼</h3>
+
+<div align="center">
+
+| 💻 Career | 🎓 Education |
+|:---|:---|
+| **🏢 LK Brothers**<br>&nbsp;&nbsp;&nbsp;&nbsp;Backend Developer _(2025.09 ~ 2025.12)_ | **🎓 삼성 청년 SW 아카데미 (SSAFY 12기)**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2024.07 ~ 2025.06)_ <br><br> **🎓 인천대학교 경영학부**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2015.03 ~ 2022.08)_ |
+
+</div>
+
+<br>
+
+<div align="center">
+  
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
+
+</div>
+
+<br>
+
+<h3 align="center">💻 Projects 💻</h3>
+
+<div align="center">
+
+| 프로젝트 | 소개 | 역할 | 기술 스택 | 링크 |
+|:---:|:---|:---:|:---|:---:|
+| **IP-Patent** | 블록체인에 IP를 등록하는 서비스 | `BE`<br>`Blockchain` | Java, Spring Boot, TypeScript, Solidity, Rust, MySQL | 🔗 |
+| **소담** | 소방 업무 효율화를 위한 AI 챗봇 서비스 | `BE`<br>`AI` | Python, FastAPI, MySQL, Langchain | 🔗 |
+| **SleepTight** | 수면 장애 환자를 위한 수면 분석 서비스 앱 | `팀장`<br>`BE`<br>`Infra` | TypeScript, NestJS, PostgreSQL, Nginx, Jenkins, Docker | 🔗 |
+| **Re:birth** | 소비 패턴 기반 카드 추천 및 결제 서비스 | `BE`<br>`Infra` | Kotlin, Spring Boot, PostgreSQL, Nginx, Jenkins, Docker | 🔗 |
+| **은하수다** | AI 고민 유사도 기반 유저 매칭 익명 채팅 서비스 | `팀장`<br>`BE`<br>`Infra` | Java, Spring Boot, WebSocket, MySQL, MongoDB, Redis | 🔗 |
+
+</div>
+
+<br>
+
+<div align="center">
+  
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
+
+</div>
+
+<br>
+
+<h3 align="center">📊 GitHub Stats 📊</h3>
+
+<div align="center">
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xylitol311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true) | ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xylitol311) |
+|:---:|:---:|
+
+<br>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=xylitol311&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
+
+</div>
+
+<br>
+
+<div align="center">
+  
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
+
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact Me 📫</h3>
+
+<p align="center">
+  <a href="mailto:soohong0311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/suhong-cha-b624082b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://velog.io/@xylitol311/series">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+</p>
