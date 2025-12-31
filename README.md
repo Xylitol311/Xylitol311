@@ -27,10 +27,9 @@
 
 <div align="center">
 
-| 💻 Language & Framework | 📊 Most Used Languages |
+| 💻 Tech Stack | 📊 Most Used Languages |
 |:---|:---:|
-| <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <br><br> **💾 Database** <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <br><br> **🔧 Tools & Infrastructure** <br> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xylitol311&theme=tokyonight)
- |
+| **Language** <br> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <br><br> **Backend Framework** <br> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <br><br> **Database** <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <br><br> **DevOps & Infra** <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <br><br> **Blockchain** <br> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xylitol311&theme=github_dark) |
 
 </div>
 
@@ -112,12 +111,12 @@
 
 <div align="center">
 
-| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xylitol311&theme=tokyonight) | ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xylitol311) |
+| ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xylitol311) | ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xylitol311&theme=github_dark) |
 |:---:|:---:|
 
 <br>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=xylitol311&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=xylitol311&theme=github-compact&hide_border=true&bg_color=0d1117)
 
 </div>
 
