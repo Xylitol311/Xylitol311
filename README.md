@@ -48,9 +48,9 @@
 
 <div align="center">
 
-| 🏅 Awards | 📜 Qualifications |
+| 🏆 Awards | 📜 Qualifications |
 |:---|:---|
-| **🥇 소방안전 빅데이터 활용 및 아이디어 경진대회**<br>&nbsp;&nbsp;&nbsp;&nbsp;대상 (서비스개발 부문) _(2025.09)_ <br><br> **🥈 SSAFY 12기 공통 프로젝트**<br>&nbsp;&nbsp;&nbsp;&nbsp;우수상 (2등) _(2025.02)_ <br><br> **🥉 SSAFY 12기 관통 프로젝트**<br>&nbsp;&nbsp;&nbsp;&nbsp;우수상 (3등) _(2025.04)_ | **📜 정보처리기사**<br>&nbsp;&nbsp;&nbsp;&nbsp;한국산업인력공단 _(2025.06)_ <br><br> **📜 SQL 개발자 (SQLD)**<br>&nbsp;&nbsp;&nbsp;&nbsp;한국데이터산업진흥원 _(2024.06)_ |
+| **🥇 소방안전 빅데이터 활용 및 아이디어 경진대회**<br>&nbsp;&nbsp;&nbsp;&nbsp;대상 (서비스개발 부문) _(2025.09)_ <br><br> **🥈 SSAFY 12기 관통 프로젝트**<br>&nbsp;&nbsp;&nbsp;&nbsp;우수상 (3등) _(2025.04)_ <br><br> **🥉 SSAFY 12기 공통 프로젝트**<br>&nbsp;&nbsp;&nbsp;&nbsp;우수상 (2등) _(2025.02)_ | **📜 정보처리기사**<br>&nbsp;&nbsp;&nbsp;&nbsp;한국산업인력공단 _(2025.06)_ <br><br> **📜 OPIc IM3**<br>&nbsp;&nbsp;&nbsp;&nbsp;ACTFL _(2024.09)_ <br><br> **📜 SQL 개발자 (SQLD)**<br>&nbsp;&nbsp;&nbsp;&nbsp;한국데이터산업진흥원 _(2024.06)_ |
 
 </div>
 
@@ -70,7 +70,7 @@
 
 | 💻 Career | 🎓 Education |
 |:---|:---|
-| **🏢 LK Brothers**<br>&nbsp;&nbsp;&nbsp;&nbsp;Backend Developer _(2025.09 ~ 2025.12)_ | **🎓 삼성 청년 SW 아카데미 (SSAFY 12기)**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2024.07 ~ 2025.06)_ <br><br> **🎓 인천대학교 경영학부**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2015.03 ~ 2022.08)_ |
+| **🏢 LK Brothers**<br>&nbsp;&nbsp;&nbsp;&nbsp;Backend Developer _(2025.09 ~ 2025.12)_ | **🎓 삼성 청년 SW 아카데미 (SSAFY 12기)**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2024.07 ~ 2025.06)_ <br><br> **🎓 제로베이스 백엔드 부트캠프 22기**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2023.03 ~ 2023.09)_ <br><br> **🎓 멋쟁이사자처럼 AI SCHOOL 5기**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2022.03 ~ 2022.06)_ <br><br> **🎓 인천대학교 경영학부**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2015.03 ~ 2022.08)_ |
 
 </div>
 
