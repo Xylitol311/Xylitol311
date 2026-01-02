@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Backend Developer | Java & Spring Boot Enthusiast</h3>
+  <h3>🚀 Backend Developer</h3>
   <p>안녕하세요, 차수홍입니다</p>
 </div>
 
@@ -93,8 +93,8 @@
 
 | 프로젝트 | 소개 | 역할 | 기술 스택 | 링크 |
 |:---:|:---|:---:|:---|:---:|
-| **IP-Patent** | 블록체인에 IP를 등록하는 서비스 | `BE`<br>`Blockchain` | Java, Spring Boot, TypeScript, Solidity, Rust, MySQL | 🔗 |
-| **소담** | 소방 업무 효율화를 위한 AI 챗봇 서비스 | `BE`<br>`AI` | Python, FastAPI, MySQL, Langchain | 🔗 |
+| **IP-Patent** | 블록체인에 IP를 등록하여 소유권을 보장하는 서비스 | `BE`<br>`Blockchain` | Java, Spring Boot, TypeScript, Express.js, Solidity, Rust, MySQL | 🔗 |
+| **소담** | 소방 업무 효율화를 위한 AI 챗봇 서비스 | `BE`<br>`AI` | Python, FastAPI, MySQL | 🔗 |
 | **SleepTight** | 수면 장애 환자를 위한 수면 분석 서비스 앱 | `팀장`<br>`BE`<br>`Infra` | TypeScript, NestJS, PostgreSQL, Nginx, Jenkins, Docker | 🔗 |
 | **Re:birth** | 소비 패턴 기반 카드 추천 및 결제 서비스 | `BE`<br>`Infra` | Kotlin, Spring Boot, PostgreSQL, Nginx, Jenkins, Docker | 🔗 |
 | **은하수다** | AI 고민 유사도 기반 유저 매칭 익명 채팅 서비스 | `팀장`<br>`BE`<br>`Infra` | Java, Spring Boot, WebSocket, MySQL, MongoDB, Redis | 🔗 |
