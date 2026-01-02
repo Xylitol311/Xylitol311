@@ -10,17 +10,6 @@
 
 </div>
 
-<div align="center">
-  <h3>🚀 Backend Developer</h3>
-  <p>안녕하세요, 차수홍입니다</p>
-</div>
-
-<div align="center">
-  
-![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
-
-</div>
-
 <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
