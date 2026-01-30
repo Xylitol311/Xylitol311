@@ -64,7 +64,7 @@
 
 | 💻 Career | 🎓 Education |
 |:---|:---|
-| **🏢 LK Brothers**<br>&nbsp;&nbsp;&nbsp;&nbsp;Backend Developer _(2025.09 ~ 2025.12)_ | **🎓 삼성 청년 SW 아카데미 (SSAFY 12기)**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2024.07 ~ 2025.06)_ <br><br> **🎓 제로베이스 백엔드 부트캠프 22기**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2023.03 ~ 2023.09)_ <br><br> **🎓 멋쟁이사자처럼 AI SCHOOL 5기**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2022.03 ~ 2022.06)_ <br><br> **🎓 인천대학교 경영학부**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2015.03 ~ 2022.08)_ |
+| **🏢 LK Brothers**<br>&nbsp;&nbsp;&nbsp;&nbsp;Backend Developer _(2025.09 ~ 2026.01)_ | **🎓 삼성 청년 SW 아카데미 (SSAFY 12기)**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2024.07 ~ 2025.06)_ <br><br> **🎓 제로베이스 백엔드 부트캠프 22기**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2023.03 ~ 2023.09)_ <br><br> **🎓 멋쟁이사자처럼 AI SCHOOL 5기**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2022.03 ~ 2022.06)_ <br><br> **🎓 인천대학교 경영학부**<br>&nbsp;&nbsp;&nbsp;&nbsp;_(2015.03 ~ 2022.08)_ |
 
 </div>
 
